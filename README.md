@@ -1,18 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Samuel(Nazu), A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
   
 
 - 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)  
   
 
-- 🌱 I’m currently learning Node.js, React.js and Bash  
+- 🌱 I’m currently learning Software Engineering  
   
 
-- ❓ Ask me about anything related to Web Pen-testing  
+- ❓ Ask me about anything related to Website Security
   
 
 - ⚡ Fun fact: I use tabs over spaces  
