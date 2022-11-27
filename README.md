@@ -1,5 +1,5 @@
-![Header](./[![header](https://user-images.githubusercontent.com/108541991/204139156-e8b746ed-1c33-47be-94a9-54d751a16357.png)
-])
+[![header](https://user-images.githubusercontent.com/108541991/204139156-e8b746ed-1c33-47be-94a9-54d751a16357.png)
+
 
 # <div align="center">Hi, I'm Samuel / Nazu</div> 
 ## <div align="center"> A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
