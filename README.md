@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/108541991/204140164-304208d2-17b7-4f86-9653-43ccfd31047a.png)
+![header](https://user-images.githubusercontent.com/108541991/204140266-a9a9924c-e2a4-454a-8f46-a1888bd9b562.gif)
 
 
 # <div align="center">Hi, I'm Samuel / Nazu</div> 
@@ -6,15 +6,15 @@
 
 <img align="right" alt="hacking and coding" width="300" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">  
 
-- 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)  
+- 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)
+-   
 - 🌱 I’m currently learning Software Engineering  
-- ❓ Ask me about anything related to Website Security
-- ⚡ Fun fact: I use tabs over spaces    
+- 
+- ❓ Ask me about anything related to Website Security    
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+<table><tr><td valign="top" width="30%">
 
 ### Frontend  
 <div align="center">  
