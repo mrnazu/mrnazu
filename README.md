@@ -43,12 +43,10 @@
 </a>  
 </div>  
   
-<br/>  
+<br>  
 
 
-## <div align="left">Github Stats
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="left" width="350" height="165"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="right" width="350" height="165"/> </div></div>  
+## <div align="center">Github Stats
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center"/></div>  
 
 
