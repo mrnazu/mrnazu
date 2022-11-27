@@ -46,8 +46,9 @@
 <br/>  
 
 
-## <div align="left">Github Stats</div>  
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="left" width="250px/>
+## <div align="left">Github Stats
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="left"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="right" width="250px"/>  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="right"/> </div></div>  
+
 
