@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/108541991/204140266-a9a9924c-e2a4-454a-8f46-a1888bd9b562.gif)
+![github-header-image](https://user-images.githubusercontent.com/108541991/204140694-95e4c270-54ae-4dcc-bfd5-b16b2d54611e.png)
 
 
 # <div align="center">Hi, I'm Samuel / Nazu</div> 
