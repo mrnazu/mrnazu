@@ -47,13 +47,12 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="left" /></div>  
 <img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="right" />  
 
-<br/>  
+<br>  
 
-## **<div align="left">Th4nk G0d I'm 4 H4ck3r b0y (-_-) </div>**  
-
+## <div align="left">Th4nk G0d I'm 4 H4ck3r b0y (-_-) </div>  
 <img align="right" alt="hacking" width="500" src="https://user-images.githubusercontent.com/108541991/204142125-461546c1-6483-4fa5-8a1c-739573d36b20.png"> 
 
 <br/>  
@@ -61,4 +60,3 @@
 <div align="center"></div>
 <br />
 
-----
