@@ -51,11 +51,3 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="right" />  </div>
 
-<br>  
-<br>
-<br>
-
-<div align="left"><img align="right" alt="hacking" width="300" src="https://user-images.githubusercontent.com/108541991/204142125-461546c1-6483-4fa5-8a1c-739573d36b20.png"> 
-<div align="right"><h2>Th4nk G0d I'm 4 H4ck3r b0y (-_-) </h2></div>
-
-
