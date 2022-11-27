@@ -5,15 +5,16 @@
 ## <div align="center"> A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
 
 <img align="right" alt="hacking and coding" width="500" src="https://user-images.githubusercontent.com/108541991/204141325-107b4ddd-fb48-4283-85bb-efedab7942be.png">  
+
 <br>
-- 🔭 I’m currently working on [Development and Bug Hunting](https://github.com/mrnazu)
-- <br>  
-- 🌱 I’m currently learning Software Engineering at ALX Africa
-- <br>
-- ❓ Ask me about anything related to Website Security    
+🔭 I’m currently working on [Development and Bug Hunting](https://github.com/mrnazu)
+<br>  
+🌱 I’m currently learning Software Engineering at ALX Africa
+<br>
+❓ Ask me about anything related to Website Security    
 
 <br>  
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
 
 <p align="center"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p>
