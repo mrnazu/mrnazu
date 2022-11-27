@@ -1,24 +1,18 @@
-### <div align="center">I'm Samuel(Nazu), A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
-  
+![Header](./[header.png])
+
+# <div align="center">Hi, I'm Samuel / Nazu</div> 
+## <div align="center"> A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
+
+<img align="right" alt="hacking and coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">  
 
 - 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)  
-  
-
 - 🌱 I’m currently learning Software Engineering  
-  
-
 - ❓ Ask me about anything related to Website Security
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+- ⚡ Fun fact: I use tabs over spaces    
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -35,17 +29,14 @@
 
 
 ### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<div align="center">   
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -58,8 +49,6 @@
 </td></tr></table>  
 
 <br/>  
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
 
