@@ -6,8 +6,8 @@
 
 <img align="right" alt="hacking and coding" width="500" src="https://user-images.githubusercontent.com/108541991/204141325-107b4ddd-fb48-4283-85bb-efedab7942be.png">  
 
-- 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)  
-- 🌱 I’m currently learning Software Engineering  
+- 🔭 I’m currently working on [Development and Bug Hunting](https://github.com/mrnazu)  
+- 🌱 I’m currently learning Software Engineering at ALX Africa
 - ❓ Ask me about anything related to Website Security    
 
 <br/>  
@@ -48,15 +48,11 @@
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-## **<div align="center">Th4nk G0d I'm 4 H4ck3r b0y (-_-) </div>**  
-  
+<img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="right" />  
 
 <br/>  
+
+## **<div align="left">Th4nk G0d I'm 4 H4ck3r b0y (-_-) </div>**  
 
 <img align="right" alt="hacking" width="500" src="https://user-images.githubusercontent.com/108541991/204142125-461546c1-6483-4fa5-8a1c-739573d36b20.png"> 
 
