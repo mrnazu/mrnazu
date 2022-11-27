@@ -7,10 +7,8 @@
 <img align="right" alt="hacking and coding" width="500" src="https://user-images.githubusercontent.com/108541991/204141325-107b4ddd-fb48-4283-85bb-efedab7942be.png">  
 
 <br>
-<h3> I’m currently working on Development and Bug Hunting</h3>
-<br>  
+<h3> I’m currently working on Development and Bug Hunting</h3> 
 <h3> I’m currently learning Software Engineering at ALX Africa</h3>
-<br>
 <h3> Ask me about anything related to Website Security</h3>  
 
 <br>  
