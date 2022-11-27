@@ -4,7 +4,7 @@
 # <div align="center">Hi, I'm Samuel / Nazu</div> 
 ## <div align="center"> A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
 
-<img align="right" alt="hacking and coding" width="400" src="https://user-images.githubusercontent.com/108541991/204141325-107b4ddd-fb48-4283-85bb-efedab7942be.png">  
+<img align="right" alt="hacking and coding" width="700" src="https://user-images.githubusercontent.com/108541991/204141325-107b4ddd-fb48-4283-85bb-efedab7942be.png">  
 
 - 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)  
 - 🌱 I’m currently learning Software Engineering  
@@ -23,7 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
 <br>
-
 
 ## Connect with me  
 <div align="center">
