@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Software Engineering at ALX Africa
 - ❓ Ask me about anything related to Website Security    
 
-<br/>  
+<br>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
 
@@ -44,9 +44,8 @@
 </div>  
   
 <br>  
-
-
-## <div align="right">Github Stats><div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="right"/></div>  
+<br>
+## <div align="center">Github Stats><div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center"/></div>  
 
 
