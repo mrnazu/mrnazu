@@ -12,7 +12,7 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="left">  
