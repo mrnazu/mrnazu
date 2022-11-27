@@ -47,7 +47,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
@@ -58,10 +58,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrnazu&&style=flat-square" align="center" />
-</div>  
-  
+<img align="right" alt="hacking" width="500" src="https://user-images.githubusercontent.com/108541991/204142125-461546c1-6483-4fa5-8a1c-739573d36b20.png"> 
 
 <br/>  
 
