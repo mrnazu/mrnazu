@@ -4,7 +4,7 @@
 # <div align="center">Hi, I'm Samuel / Nazu</div> 
 ## <div align="center"> A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
 
-<img align="right" alt="hacking and coding" width="300" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">  
+<img align="right" alt="hacking and coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">  
 
 - 🔭 I’m currently working on [Development and Bug Bounty Hunting](https://github.com/mrnazu)  
 - 🌱 I’m currently learning Software Engineering  
@@ -12,9 +12,9 @@
 
 <br/>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
