@@ -7,11 +7,11 @@
 <img align="right" alt="hacking and coding" width="500" src="https://user-images.githubusercontent.com/108541991/204141325-107b4ddd-fb48-4283-85bb-efedab7942be.png">  
 
 <br>
-🔭 I’m currently working on [Development and Bug Hunting](https://github.com/mrnazu)
+### 🔭 I’m currently working on [Development and Bug Hunting](https://github.com/mrnazu)
 <br>  
-🌱 I’m currently learning Software Engineering at ALX Africa
+### 🌱 I’m currently learning Software Engineering at ALX Africa
 <br>
-❓ Ask me about anything related to Website Security    
+### ❓ Ask me about anything related to Website Security    
 
 <br>  
 <br>
