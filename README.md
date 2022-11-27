@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/108541991/204139411-959e7590-5430-42e3-a993-9c64fc6fdf19.png))]
+![header](https://user-images.githubusercontent.com/108541991/204140164-304208d2-17b7-4f86-9653-43ccfd31047a.png)
+
 
 # <div align="center">Hi, I'm Samuel / Nazu</div> 
 ## <div align="center"> A passionate Developer and Hacker👨‍💻 from Ethiopia 🇪🇹</div>  
