@@ -47,7 +47,5 @@
 <br>  
 <br>
 
-<div align="center"><h2>Github Stats</h2><div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnazu&hide_border=true&layout=compact" align="center"/></div>  
 
 
