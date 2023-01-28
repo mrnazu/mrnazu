@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Go Programming Language, API Security, Application Security & Network Security<a href="https://github.com/mrnazu/Learn-365-Days/" target="blank">Learn 365 Days</a>
+- 🌱 I’m currently learning Go Programming Language, API Security, Application Security & Network Security <a href="https://github.com/mrnazu/Learn-365-Days/" target="blank">Learn 365 Days</a>
 
 - 📝 I regularly write articles on [Medium](https://mrnazu.medium.com/) & [My Channel](https://t.me/mrnazu)
 
