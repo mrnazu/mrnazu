@@ -59,9 +59,10 @@
 
 <h3 align="center">Support</h3>
 <p><a href="https://www.buymeacoffee.com/nazu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nazu" /></a></p><br><br>
-<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
 
-<p>&nbsp;<img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
+<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
 
-<p><img align="center" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
+<p>&nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
+
+<p><img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
 
