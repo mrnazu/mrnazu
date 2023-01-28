@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Go Programming Language, API Security, Application Security & Network Security <a href="https://github.com/mrnazu/Learn-365-Days/" target="blank">Learn 365 Days</a>
+- 🌱 I’m currently learning Go Programming Language, API Security, Application Security & Network Security<a href="https://github.com/mrnazu/Learn-365-Days/" target="blank">Learn 365 Days</a>
 
 - 📝 I regularly write articles on [Medium](https://mrnazu.medium.com/) & [My Channel](https://t.me/mrnazu)
 
@@ -55,8 +55,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnazu" alt="mrnazu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -75,3 +73,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
+
