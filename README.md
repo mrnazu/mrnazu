@@ -63,5 +63,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
+<p><img align="center" width="30px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
 
