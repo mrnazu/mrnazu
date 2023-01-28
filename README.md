@@ -39,8 +39,6 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19493509/nazu?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://t.me/mrnazu">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mrnazu">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mrnazu_">
@@ -50,8 +48,8 @@
 
 </p>
 
-<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
-<p align="center"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p></div>
+<div align="left"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
+<p align="right"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p></div>
 
 
 <h3 align="center">Languages and Tools</h3>
