@@ -13,17 +13,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://t.me/samuel_amsalu" target="blank">Software Engineering & Web Security</a>
-
-- 🌱 I’m currently Working on Bug Bounty & DSA
+- 🔭 I’m currently Working on Software Engineering & Web Security Researching.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Go Programming Language, API Security, Application Security & Network Security<a href="https://github.com/mrnazu/Learn-365-Days/" target="blank">Learn 365 Days</a>
+- 🌱 I’m currently learning API Security & Network Security.
+
+- 🌱 I’m currently planning to learn Computer Science & Math 
 
 - 📝 I regularly write articles on [Medium](https://mrnazu.medium.com/) & [My Channel](https://t.me/mrnazu)
 
-- 💬 Ask me about **Web Hacking & Security**
+- 💬 Ask me about **Web Security**
 
 - 📫 How to reach me **samuel_amsalu@yahoo.com**
 
