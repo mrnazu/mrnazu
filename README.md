@@ -63,4 +63,4 @@
 <p>&nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
 
 <p><img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
-<a href="https://app.daily.dev/mrnazu"><img align="right" src="https://api.daily.dev/devcards/8296c70ac48c4177b62ba6d112b42afe.png?r=fo5" width="400px" alt="Samuel Amsalu's Dev Card"/></a>
+<a href="https://app.daily.dev/mrnazu"><img align="right" src="https://api.daily.dev/devcards/8296c70ac48c4177b62ba6d112b42afe.png?r=fo5" width="250px" alt="Samuel Amsalu's Dev Card"/></a>
