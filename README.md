@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel Amsalu/Nazu</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Security Researcher | CNWPP🚶| CAP</h3>
+<h3 align="center">Software Engineer | Technical Content Writer | Security Researcher</h3>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake"/></a>
