@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning API Security & Network Security.
 
-- 🌱 I’m currently planning to learn Computer Science & Math 
+- 🌱 I’m planning to learn Computer Science & Math 
 
 - 📝 I regularly write articles on [Medium](https://mrnazu.medium.com/) & [My Channel](https://t.me/mrnazu)
 
