@@ -49,7 +49,7 @@
 </p>
 
 <div align="left"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mrnazu&label=Profile%20views&color=0e75b6&style=flat" alt="mrnazu" /> </p>
-<p align="right"> <a href="https://twitter.com/mrnazu_" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p></div>
+<p align="right"> <a href="https://twitter.com/SamuelAmsaluE" target="blank"><img src="https://img.shields.io/twitter/follow/mrnazu_?logo=twitter&style=for-the-badge" alt="mrnazu_" /></a> </p></div>
 
 
 <h3 align="center">Languages and Tools</h3>
