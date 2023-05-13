@@ -58,8 +58,17 @@
 <h3 align="center">Support</h3>
 <p><a href="https://www.buymeacoffee.com/nazu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nazu" /></a></p><br><br>
 
-<p><img align="left" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stats</b></summary>
+  <br>
+  
+![GitHub Stats Card]
+  
+</details>
 
-<p>&nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
+<!-- links -->
 
-<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
+[github stats card]: https://github-readme-stats.vercel.app/api?username=mrnazu
+
+
