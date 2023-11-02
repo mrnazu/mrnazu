@@ -54,6 +54,6 @@
 **:zap: GitHub Profile Stats**
 
 <!-- links -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
+<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
