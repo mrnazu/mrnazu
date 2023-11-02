@@ -63,4 +63,4 @@
 <!-- links -->
 
 [github stats card]: https://github-readme-stats.vercel.app/api?username=mrnazu
-[github stats card]: https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact
+[github stats card]: <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" />
