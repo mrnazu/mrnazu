@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel Amsalu/Nazu</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Security Researcher</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | CyberSecurity Researcher | Technical Content Writer</h3>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake"/></a>
@@ -13,17 +13,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Software Engineering & Web Security Researching.
+- 🔭 I’m currently Working on Software Engineering which is Developing valuable Software & Web Security Researching.
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for Freelancing | Project | Startup.
 
-- 🌱 I’m currently learning API Security & Network Security.
+- 🌱 I’m currently learning Coding w/ Python | API Security | Mindset Mastery.
 
-- 🌱 I’m planning to learn Computer Science & Math 
+- 🌱 I’m planning to learn Computer Science & Math
 
-- 📝 I regularly write articles on [Medium](https://mrnazu.medium.com/) & [My Channel](https://t.me/mrnazu)
+- 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/) & [My Telegram Channel](https://t.me/mrnazu)
 
-- 💬 Ask me about **Web Security**
+- 💬 Ask me about **Web Security/Hacking...**
 
 - 📫 How to reach me **samuel_amsalu@yahoo.com**
 
