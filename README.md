@@ -68,6 +68,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p>
-
 
