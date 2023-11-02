@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel Amsalu/Nazu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm SAMUEL aka NAZU</h1>
 <h3 align="center">Software Engineer | MERN Developer | CyberSecurity Researcher | Technical Writer</h3>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/) & [My Telegram Channel](https://t.me/mrnazu)
 
-- 💬 Ask me about **Web Security/Hacking...**
+- 💬 Ask me about Web Security/Hacking | Secure Coding
 
 - 📫 How to reach me **samuel_amsalu@yahoo.com**
 
@@ -37,8 +37,6 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mrnazu">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19493509/nazu?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mrnazu">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mrnazu_">
