@@ -51,17 +51,8 @@
 
 <br>
 
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stats</b></summary>
-  <br>
-  
-![GitHub Stats Card]
-  
-</details>
+**:zap: GitHub Profile Stats**
 
 <!-- links -->
 
-[github stats card]: https://github-readme-stats.vercel.app/api?username=mrnazu
-[github stats card]: https://github-readme-streak-stats.herokuapp.com/?user=mrnazu
-[github stats card]: https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnazu&" alt="mrnazu" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
