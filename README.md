@@ -13,11 +13,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Software Engineering which is Developing valuable Software & CyberSecurity Researching.
+- 🔭 I’m currently Working on Software Engineering which is Developing valuable Software | CyberSecurity Researching | Bug Hunting
 
 - 🤝 I’m available for Freelancing | Project | Startup.
 
-- 🌱 I’m currently learning Neuroscience
+- 🌱 I’m currently learning Neuroscience | NLP
 
 - 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/) & [My Telegram Channel](https://t.me/mrnazu)
 
