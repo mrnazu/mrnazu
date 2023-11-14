@@ -50,8 +50,9 @@
 <br>
 
 **:zap: GitHub Profile Stats**
-
-<!-- links -->
-<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnazu&show_icons=true&locale=en&layout=compact" alt="mrnazu" /></p>
-
-<p>&nbsp;<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=mrnazu&show_icons=true&locale=en" alt="mrnazu" /></p>
+<p align="center">
+<a href="https://github.com/dohoudaniel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrnazu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrnazu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
