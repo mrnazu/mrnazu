@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm SAMUEL aka NAZU</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel Amsalu</h1>
 <h3 align="center">Software Engineer | Bug Hunter | CyberSecurity Researcher 🔴🧢 | Technical Writer</h3>
 <h4 align="center">NodeJS | NextJS | React | MongoDB | Burp Suite | Wireshark | Splunk</h4>
 <h5 align="center">THM | HTB | BugCrowd | RootMe | VulnHub</h5>
