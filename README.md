@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for Freelancing | Project | Startup.
 
-- 🌱 I’m currently learning Neuroscience | NLP
+- 🌱 I’m currently learning Neuroscience | nlp Neuro Linguistic Programming (NLP)
 
 - 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/) & [My Telegram Channel](https://t.me/mrnazu)
 
