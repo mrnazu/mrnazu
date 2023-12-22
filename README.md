@@ -49,7 +49,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,redux,supabase,stackoverflow,redis,nextjs,py,c,go,graphql,prisma,tailwind,bootstrap,bash,linux,git,github,githubactions,kubernetes,docker,vim,heroku,vercel,md,postman,pytorch,tensorflow,aws,firebase,ts" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,redux,redis,nextjs,py,c,cpp,graphql,prisma,tailwind,bootstrap,bash,linux,git,github,githubactions,kubernetes,docker,vim,heroku,vercel,md,postman,pytorch,tensorflow,aws,firebase,ts" />
   </a>
 </p>
 
