@@ -21,11 +21,11 @@
 
 - 🌱 I’m currently learning Neuroscience | Neuro Linguistic Programming (NLP) | Web3 | Smart Contract Hacking
 
-- 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/) & [My Telegram Channel](https://t.me/mrnazu)
+- 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/)
 
 - 💬 Ask me about Web Security/Hacking | Secure Coding
 
-- 📫 How to reach me **samuel_amsalu@yahoo.com**
+- 📫 How to reach me **nazu.discorde@gmail.com**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h3>
