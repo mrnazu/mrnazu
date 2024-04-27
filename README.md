@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for Freelancing | Project | Startup.
 
-- 🌱 I’m currently learning Neuroscience | Neuro Linguistic Programming (NLP) | Web3 | Smart Contract Hacking
+- 🌱 I’m currently working on [Token Exchange Platform](https://github.com/mrnazu/token-exchange-platform) and learning Web3, Blockchain and Smart Contract Hacking
 
 - 📝 I regularly write articles on [Medium.com](https://mrnazu.medium.com/)
 
