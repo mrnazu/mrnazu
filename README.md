@@ -2,9 +2,9 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nazu</h1>
-<h3 align="center">Software Engineer | Bug Hunter | CyberSecurity Researcher 🔴🧢 | Technical Writer</h3>
-<h4 align="center">NodeJS | React | MongoDB | Burp Suite | Wireshark | Splunk</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel</h1>
+<h3 align="center">Software Engineer and Bug Hunter</h3>
+<h4 align="center">NodeJS | Solidity | Burp Suite</h4>
 <h5 align="center">THM | HTB | BugCrowd | RootMe | VulnHub</h5>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -33,7 +33,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,redux,redis,nextjs,py,c,cpp,tailwind,bootstrap,bash,linux,git,github,githubactions,kubernetes,docker,vim,vercel,md,postman,aws,firebase,ts" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,solidity,c,bash,linux,git,github,githubactions,docker,vim,vercel,md,postman" />
   </a>
 </p>
 
