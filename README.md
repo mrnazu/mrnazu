@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Samuel</h1>
 <h3 align="center">Software Engineer (Backend) and Pentester</h3>
 <h4 align="center">NodeJS | Solidity | Burp Suite | THM | HTB | BugCrowd | RootMe | VulnHub</h4>
 <hr>
@@ -28,7 +28,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,solidity,c,bash,linux,git,github,githubactions,docker,vim,vercel,md,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,solidity,c,bash,linux,git,github,githubactions,docker,vim,vercel,md,postman" />
   </a>
 </p>
 
