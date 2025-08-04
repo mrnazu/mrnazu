@@ -3,13 +3,8 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel</h1>
-<h3 align="center">Software Engineer and Bug Hunter</h3>
-<h4 align="center">NodeJS | Solidity | Burp Suite</h4>
-<h5 align="center">THM | HTB | BugCrowd | RootMe | VulnHub</h5>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake"/></a>
-</div>
+<h3 align="center">Software Engineer (Backend) and Pentester</h3>
+<h4 align="center">NodeJS | Solidity | Burp Suite | THM | HTB | BugCrowd | RootMe | VulnHub</h4>
 <hr>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
